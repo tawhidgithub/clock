@@ -1,6 +1,6 @@
 @font-face{
   font-family: myFirstfont;
-  src:url("/home/roni/Desktop/Tawhid/car.js/fonte/DS-DIGI.TTF") ;
+  src:url("/font/DS-DIGI.TTF") ;
 }
 body{
 margin: 0 auto;
