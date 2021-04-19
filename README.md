@@ -1,4 +1,4 @@
 # clock
 It's a digital clock
 
-https://tawhidgithub.github.io/clock/
+ demo:https://tawhidgithub.github.io/clock/
